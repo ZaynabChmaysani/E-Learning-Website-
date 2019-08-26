@@ -8,6 +8,3 @@
 
 require_once './connection.php';
  header('Location: ./addCourse.php');
-
- echo 'hello world!'
- 
